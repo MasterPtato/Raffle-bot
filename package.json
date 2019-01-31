@@ -1,0 +1,12 @@
+{
+  "name": "rafflebot",
+  "version": "1.0.0",
+  "description": "vince es big gayo hehehe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "MasterPtato",
+  "license": "ISC"
+}
